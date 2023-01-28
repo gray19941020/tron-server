@@ -1,0 +1,11 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+  main:
+    allow-bean-definition-overriding: true
+    allow-circular-references: true
+  application:
+    name: tron-server
+  profiles:
+    active: sit

@@ -1,0 +1,8 @@
+tron:
+  config:
+    tronDomainUlr: https://api.trongrid.io
+    tronDomainOnline: true
+    trc20Address: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+    trc20Decimals: 1000000
+    hexPrivateKey: e088f372ffaf11b33900e5fd369abdc64c4819386436541347bb4d9af17dd708
+    ownerAddress: TA7weEqvrbyMygQmbNbFuAi2ndEBUAp45h
